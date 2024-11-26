@@ -18,8 +18,13 @@ A simple and intuitive To-Do List Application built with React.js, designed to h
 
 📂 Project Structure
 src/
+
 ├── components/
+
 │   ├── Todo.jsx          # Main To-Do App component
+
 │   └── TodoItems.jsx     # Component for rendering individual tasks
+
 ├── assets/               # Static assets (icons and images)
+
 └── App.js                # Root component

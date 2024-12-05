@@ -1,7 +1,7 @@
 {
   "name": "todo",
   "private": true,
-  "homepage": "https://<your-github-username>.github.io/To-Do-List-App",
+  "homepage": "https://uzwal01.github.io/To-Do-List-App",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -10,11 +10,12 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.0.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.13.0",

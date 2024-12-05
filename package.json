@@ -1,7 +1,7 @@
 {
   "name": "todo",
   "private": true,
-  "homepage": "https://<your-github-username>.github.io/<repository-name>",
+  "homepage": "https://<your-github-username>.github.io/To-Do-List-App",
   "version": "0.0.0",
   "type": "module",
   "scripts": {

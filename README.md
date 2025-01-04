@@ -39,11 +39,11 @@ A **React.js** application to manage your daily tasks efficiently. This minimali
 
 ## 🖼️ App Preview
 
-#home
+- home
 ![image](https://github.com/user-attachments/assets/146afac0-d54d-45e6-bc39-6873b5a13abb)
-#Adding to-do items
+- Adding to-do items
 ![image](https://github.com/user-attachments/assets/af53cd3d-44e6-4be8-ac98-abbb46016ea5)
-#Use of local Storage
+- Use of local Storage
 ![image](https://github.com/user-attachments/assets/731f6104-596a-45bc-bdf5-e9d1e6b9c849)
 
 
